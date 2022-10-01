@@ -14,6 +14,8 @@ Go to ``||sprites:Sprites||``.
 Select the ``||variables(sprites):set mySprite to||`` block 
 and drag it into the ``||loops:on start||`` block.
 
+![Agent building a tower](/static/Capture.PNG)
+
 You should get something like this (click the lightbulb to see)...
 
 ```blocks
