@@ -12,7 +12,7 @@ You will start to build your game with coding blocks from here.
 
 ## Step 1
 
-Go to ``||sprites:Sprites||`` in the Toolbox. 
+Click on ``||sprites:Sprites||`` in the Toolbox. 
 
 Select the ``||variables(sprites):set mySprite to||`` block 
 and drag it into the ``||loops:on start||`` block.
