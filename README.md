@@ -4,7 +4,7 @@
 
 In this tutorial, we're going to create the Ball and Blocker game.
 
-<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/game_screen.png" width="60%">
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/game_screen.png" width="60%" style="display: block;margin-left:auto;margin-right:auto;width: 50%;">
 
 There is an ``||loops:on start||`` block on the grid space.
 
