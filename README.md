@@ -46,7 +46,7 @@ let mySprite = sprites.create(img`
 Click the little gray box in the ``||sprites:sprite of kind||`` block 
 (which is embedded in  the ``||variables(sprites):set mySprite to||`` block)
 
-<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/little_gray_box.png" width="60%" style="display: block;margin-left:auto;margin-right:auto;width: 50%;">
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/little_gray_box.PNG" width="60%" style="display: block;margin-left:auto;margin-right:auto;width: 50%;">
 
 to open the Sprite Editor.
 
