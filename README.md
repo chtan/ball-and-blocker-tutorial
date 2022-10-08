@@ -8,7 +8,7 @@ In this tutorial, we're going to create the Ball and Blocker game.
 
 There is an ``||loops:on start||`` block on the grid space.
 
-You will start to build your game with the coding blocks from here.
+You will start to build your game with coding blocks from here.
 
 ## Step 1
 
