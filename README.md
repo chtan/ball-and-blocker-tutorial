@@ -45,15 +45,18 @@ let mySprite = sprites.create(img`
 
 Click the little gray box in the ``||sprites:sprite of kind||`` block 
 
-<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/little_gray_box.PNG" width="100%" style="display: block;margin-left:auto;margin-right:auto;width: 50%;">
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/little_gray_box.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 
 which is embedded in  the ``||variables(sprites):set mySprite to||`` block, to open the Sprite Editor.
 
 ## Step 3
 
-Select Color 1 (white). 
+Select Color 1 (white).
 
-Then use the paint tool to draw a line across the bottom of the drawing area. 
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/paint_tool_1.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
+Then use the paint tool to draw 2 lines across the bottom of the drawing area. 
+
 This will be the *blocker* controlled by the player.
 
 Click "Done" when complete.
