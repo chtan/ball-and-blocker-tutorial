@@ -70,8 +70,9 @@ you have drawn...
 
 You should also see the blocker at the centre of the game simulator.
 
-This either shows up as a small black box located
-at the bottom right-hand corner of the browser, or to the left of the it.
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/simulator.PNG" style="display:block;margin-left:auto;margin-right:auto;width:100%;">
+
+This is normally located at the bottom right-hand corner of the browser.
 
 ## Step 4
 
