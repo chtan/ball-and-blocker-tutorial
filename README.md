@@ -61,23 +61,21 @@ This will be the *blocker* controlled by the player.
 
 Click "Done" when complete.
 
-## Step 4
+## Do you see this?
 
 The little gray box should now show the blocker that 
 you have drawn...
 
 <img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/show_blocker.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 
-
-
-## Game Simulator @showdialog
+## Do you see this?
 
 You should also see the blocker at the centre of the game simulator.
 
 This either shows up as a small black box located
 at the bottom right-hand corner of the browser, or to the left of the it.
 
-## Step 5
+## Step 4
 
 The blocker shoule be positioned at the bottom of the game screen.
 
