@@ -51,11 +51,9 @@ which is embedded in  the ``||variables(sprites):set mySprite to||`` block, to o
 
 ## Step 3
 
-Select Color 1 (white).
+With the Paint Tool, select Color 1 (white). Then use the paint tool to draw 2 lines across the bottom of the drawing area. 
 
 <img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/paint_tool_1.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
-
-Then use the paint tool to draw 2 lines across the bottom of the drawing area. 
 
 This will be the *blocker* controlled by the player.
 
