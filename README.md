@@ -63,29 +63,12 @@ Click "Done" when complete.
 
 ## Step 4
 
-The little gray box in the ``||sprites:sprite of kind||`` block
-should now show the blocker that you have drawn (click the lightbulb to see)...
+The little gray box should now show the blocker that 
+you have drawn...
 
-```blocks
-let mySprite = sprites.create(img`
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-    `, SpriteKind.Player)
-```
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/show_blocker.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
+
 
 ## Game Simulator @showdialog
 
