@@ -81,9 +81,7 @@ The blocker shoule be positioned at the bottom of the game screen.
 Go to ``||sprites:Sprites||``, select the ``||sprites: set mySprite position||`` block 
 and drag it below the ``||variables: set mySprite to||`` block.
 
-## Step 6
-
-Type 80 beside "x" and type 100 beside "y".
+Type 80 beside "x" and type 95 beside "y".
 
 You should get something like this (click the lightbulb to see)...
 
