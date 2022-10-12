@@ -101,10 +101,11 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     `, SpriteKind.Player)
-mySprite.setPosition(80, 100)
+// @highlight
+mySprite.setPosition(80, 95)
 ```
 
 ## Coordinate System
