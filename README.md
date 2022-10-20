@@ -148,10 +148,11 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     `, SpriteKind.Player)
-mySprite.setPosition(80, 100)
+mySprite.setPosition(80, 95)
+// @highlight
 let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
@@ -170,6 +171,7 @@ let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+
 ```
 
 ## Step 8
