@@ -110,12 +110,18 @@ mySprite.setPosition(80, 95)
 
 ## Coordinate System
 
-You have just prescribed the position of the blocker to be at (80, 100), 
-or x=80, y=100.
+You have just prescribed the position of the blocker to be at (80, 95), 
+or x=80, y=95.
 
 x measures distance from left to right, horizontally.
 
 y measures distance from top to bottom, vertically.
+
+## Do you see this?
+
+In the game simulator, you should see that the blocker is now located near the base of the screen.
+
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/simulator_blocker_base.PNG" style="display:block;margin-left:auto;margin-right:auto;width:50%;">
 
 ## Step 7
 
