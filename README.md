@@ -171,10 +171,9 @@ let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
-
 ```
 
-## Step 8
+## Step 6
 
 Click the dropdown menu on the ``||sprites:sprite of kind||`` block and select "Projectile".
 
@@ -196,10 +195,11 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     `, SpriteKind.Player)
-mySprite.setPosition(80, 100)
+mySprite.setPosition(80, 95)
+// @highlight
 let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
@@ -218,23 +218,23 @@ let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Projectile)
-
 ```
 
-## Step 9
+## Step 7
 
-Now click the little gray box in the ``||sprites:sprite of kind Projectile||`` block to open the Sprite Editor.
+Click the little gray box in the ``||sprites:sprite of kind Projectile||`` block which is embedded in  the ``||variables(sprites):set mySprite to||`` block, to open the Sprite Editor.
 
-## Step 10
+## Step 8
 
-Selec Color 1 (white). 
+With the Paint Tool, select Color 1 (white). Then use the paint tool to draw a rough circular shape at the centre of the drawing area.  
 
-Then use the paint tool to draw a rough circular shape at the centre of the drawing area. 
-This will represent the ball.
+<img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/paint_tool_2.PNG" style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
+This will represent the *ball* that the blocker needs to block from reaching the bottom of the screen.
 
 Click "Done" when complete.
 
-## Step 11
+## Step 8
 
 The little gray box in the ``||sprites:sprite of kind Projectile||`` block
 should now indicate the ball that you have drawn (click the lightbulb to see)...
@@ -255,23 +255,23 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
     `, SpriteKind.Player)
-mySprite.setPosition(80, 100)
+mySprite.setPosition(80, 95)
 let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . 1 1 1 1 1 1 1 . . . . . 
-    . . . 1 1 1 1 1 1 1 1 1 . . . . 
-    . . . 1 1 1 1 1 1 1 1 1 . . . . 
-    . . . 1 1 1 1 1 1 1 1 1 . . . . 
-    . . . 1 1 1 1 1 1 1 1 1 . . . . 
-    . . . 1 1 1 1 1 1 1 1 1 . . . . 
-    . . . . . 1 1 1 1 1 1 . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . 1 1 1 1 . . . . . . 
+    . . . . . . 1 1 1 1 . . . . . . 
+    . . . . . . 1 1 1 1 . . . . . . 
+    . . . . . . 1 1 1 1 . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
