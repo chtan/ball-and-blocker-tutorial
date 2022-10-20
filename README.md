@@ -72,7 +72,7 @@ You should also see the blocker at the centre of the game simulator.
 
 <img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/simulator.PNG" style="display:block;margin-left:auto;margin-right:auto;width:50%;">
 
-This is normally located at the bottom right-hand corner of the browser.
+This is normally located near the bottom right-hand corner of the browser.
 
 ## Step 4
 
