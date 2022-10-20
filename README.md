@@ -123,7 +123,7 @@ In the game simulator, you should see that the blocker is now located near the b
 
 <img src="https://github.com/chtan/ball-and-blocker-tutorial/raw/master/docs/static/simulator_blocker_base.PNG" style="display:block;margin-left:auto;margin-right:auto;width:50%;">
 
-## Step 7
+## Step 5
 
 Next we will bring in the bouncing ball.
 
